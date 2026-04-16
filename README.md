@@ -10,10 +10,10 @@ Le projet est réalisé de manière autonome en collaboration avec l'école du N
 
 ### Pré-requis
 
-- TouchDesigner (version 2025)
-- Tailscale
-- NDI Tools
-- Ollama (+ espace mémoire pour les modèles si utilisation locale)
+- [TouchDesigner](https://derivative.ca/) (version 2025)
+- [Tailscale](https://tailscale.com/)
+- [NDI Tools](https://ndi.video/tools/)
+- [Ollama](https://ollama.com/) (+ espace mémoire pour les modèles si utilisation locale)
 
 ### Démarrage
 
