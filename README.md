@@ -12,6 +12,7 @@ Le projet est réalisé de manière autonome en collaboration avec l'école du N
 
 - TouchDesigner (version 2025)
 - Tailscale
+- NDI Tools
 - Ollama (+ espace mémoire pour les modèles si utilisation locale)
 
 ### Démarrage
@@ -21,7 +22,7 @@ Tailscale doit être lancé sur tous les appareils, NDI doit être configuré et
 ## Wiki
 
 &rarr; Allez voir le [Wiki](https://github.com/miel-uqac/portal/wiki) pour plus d'informations !
-- [NDI](https://github.com/miel-uqac/portal/wiki/Protocole-transmission-vid%C3%A9o-NDI)
+- [Tailscale/NDI](https://github.com/miel-uqac/portal/wiki/Protocole-transmission-vid%C3%A9o-NDI)
 - [Ollama](https://github.com/miel-uqac/portal/wiki/Ollama)
 - [Mise en place réception/émission flux NDI](https://github.com/miel-uqac/portal/wiki/Mise-en-place-flux-r%C3%A9ception-%C3%A9mission-NDI-dans-TouchDesigner)
   
@@ -31,4 +32,4 @@ Le code contenu dans ce dépôt est soumis à la licence MIT.
 
 ## À propos de ce dépôt
 
-Le dépôt a été créer par [Damien Brun](https://github.com/makowildcat) et [Nesrine HAGGUI](https://github.com/noussaoi).
+Le dépôt a été créer par [Nesrine HAGGUI](https://github.com/noussaoi) et superviser par [Damien Brun](https://github.com/makowildcat).
